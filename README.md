@@ -64,3 +64,15 @@ Es crucial fomentar un **uso ético y responsable de la IA**, dentro de un marco
 ---
 
 🎓 ¡La IA está cambiando la educación! Sin embargo, su potencial debe ser explorado y aplicado con cuidado para construir un futuro más prometedor. 🚀✨  
+
+
+## 🎨 Desarrolladores
+
+- ✨ **Génesis M. Ojeda**
+  - 🐙 **GitHub**: [DevQueenPR](https://github.com/DevQueenPR)  
+  - 💼 **LinkedIn**: [Génesis M. Ojeda](https://www.linkedin.com/in/g%C3%A9nesis-ojeda-451576302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌟 **Lara Cordero**
+  - 🐱 **GitHub**: [lvtech](https://github.com/lvctech)
+  - 💼 **LinkedIn**: [Lara Cordero](https://www.linkedin.com/in/lara-cordero/)    
+
+---
